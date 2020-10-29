@@ -23,9 +23,6 @@ I suggest picking a business question that’s related to Baltimore City, Baltim
 ## Data Analysis
 While you don’t (and shouldn’t) list out the entirety of your data analysis in your executive summary, you’ll need to upload your excel/Python/other data analysis work to your GitHub profile for a complete project. You don’t need to write up an explanation for each document you upload, but it should be clear what kind of analysis you conducted, why you chose this type of analysis, and your findings from each analysis uploaded. You can also upload data analysis that didn’t directly contribute to your business answer and suggestions to provide a robust background on your research. It should be clear to anyone in the class who isn’t in your group how you came to your data conclusions.
 
-## GitHub Issues and Projects
-Utilize the GitHub Issues and Project feature to track your progress, collaborate with your team, and keep accounts of different resources and findings throughout your project. You can read more about submitting issues here, here, and here.
-
 ## Executive Summaries
 This write-up is similar to a business plan executive summary if your “service” is your business solution. While there are sentence/paragraph suggestions in each section, try to keep the written part of your executive summary to less than 2 pages typed in a Word document. Here are some good resources on business plans to learn more about why they’re important and how you should approach writing them:
 

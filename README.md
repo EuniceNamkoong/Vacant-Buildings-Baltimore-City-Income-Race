@@ -19,12 +19,11 @@ The map above shows the ["Black Butterfly"](https://apps.urban.org/features/balt
 
 What did you find? You don’t need to write up an explanation for each document you upload, but it should be clear what kind of analysis you conducted, why you chose this type of analysis, and your findings from each analysis uploaded. You can also upload data analysis that didn’t directly contribute to your business answer and suggestions to provide a robust background on your research. It should be clear to anyone in the class who isn’t in your group how you came to your data conclusions.
 
-
 ![insert1](NeighborhoodVacantBuildings.png)
 
 ![insert2](https://github.com/EuniceNamkoong/Vacant-Buildings-Baltimore-City-Income-Race/blob/9f42f1ec0b3f6defb37d1b9235fab7265b64b839/BaltimoreCityMedianIncomeNeighborhood.png) 
 
-![insert3](VacantBuildingsMedianIncomeScatterGraph.png)
+![insert3](https://github.com/EuniceNamkoong/Vacant-Buildings-Baltimore-City-Income-Race/blob/main/BaltimoreCityMedianIncomeScatterGraph.png)
 
 ![insert4](VacantBuildingsBlackResidents.png)
 

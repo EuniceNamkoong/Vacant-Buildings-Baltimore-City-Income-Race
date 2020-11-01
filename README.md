@@ -35,8 +35,7 @@ What did you find?
 
 ![insert](VacantBuildingsMedianIncomeScatterGraph.png)
 
-
-### Proposed Policy Solution: 
+Proposed Policy Solution: 
 To put our findings into action, we wanted to focus on strengthening existing Baltimore City legisation. In August 2019, [Baltimore Councilman Burnett](https://www.bizjournals.com/baltimore/news/2020/09/21/council-bill-signage-qr-code-vacant-properties.html) proposed a new way for Baltimore to hold negligent owners accountable. However, just recently, as of this past March, the [Law Department amended the bill](
 https://baltimorefishbowl.com/stories/burnetts-bill-would-force-vacant-property-owners-to-post-a-sign-or-a-pay-a-fine/) to have DHCD as the party responsible for posting the signage instead of the owners themselves. Instead of a paper sign, they must publish a [scannable QR code](https://www.qrcodepress.com/new-legislation-may-bring-vacancy-qr-codes-to-baltimore/8538335/) and phone line rather than a printed address, name, and other contact information which can become outdated after being published.The goal of the vacancy QR codes is to help make slumlord accountable for these empty buildings across the city and make these spaces more accessible to their neighbors. 
 
@@ -51,16 +50,12 @@ If given more time, we would further analyze more data, information regarding po
 
 ![insert3](VacantBuildingsDiversityIndex.png)
 
-### Additional Notes and Useful Links:
-
-### Exploring your business question
-
 
 ## Data Analysis
 
 Types of data analysis conducted for each data set: 
+which data set what combined with which data set - what analysis was done for that data set? 
 
-[talk about how data and which data sets were combined to produce what - and what analysis was used]
 
 ![insert2](https://github.com/EuniceNamkoong/Vacant-Buildings-Baltimore-City-Income-Race/blob/main/Cluster%20Analysis%20Results.png)
 

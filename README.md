@@ -20,23 +20,24 @@ The map above shows the ["Black Butterfly"](https://apps.urban.org/features/balt
 What did you find? You don’t need to write up an explanation for each document you upload, but it should be clear what kind of analysis you conducted, why you chose this type of analysis, and your findings from each analysis uploaded. You can also upload data analysis that didn’t directly contribute to your business answer and suggestions to provide a robust background on your research. It should be clear to anyone in the class who isn’t in your group how you came to your data conclusions.
 
 
-![insert](NeighborhoodVacantBuildings.png)
+![insert1](NeighborhoodVacantBuildings.png)
 
-![insert](VacantBuildingsBlackResidents.png)
+![insert2](https://github.com/EuniceNamkoong/Vacant-Buildings-Baltimore-City-Income-Race/blob/9f42f1ec0b3f6defb37d1b9235fab7265b64b839/BaltimoreCityMedianIncomeNeighborhood.png) 
 
-![insert](VacantBuildingsWhiteResidents.png)
+![insert3](VacantBuildingsMedianIncomeScatterGraph.png)
 
-![insert](NeighborhoodVacantBuildings.png)
+![insert4](VacantBuildingsBlackResidents.png)
 
-![insert](PoliceDistrictVacantBuildings.png)
+![insert5](VacantBuildingsWhiteResidents.png)
 
-![insert](VacantBuildingsMedianIncomeScatterGraph.png)
+![insert6](PoliceDistrictVacantBuildings.png)
+
+![insert7](https://github.com/EuniceNamkoong/Vacant-Buildings-Baltimore-City-Income-Race/blob/main/Cluster%20Nodes%20Grouping%20Table.png)
 
 ## Future Suggestions
 Projections to completely get rid of the house vacancy problem in Baltimore is over a billion dollars (insert link). However, working to efficiently enact this current legislation will reduce time, cost, and effort. According to DHCD, it would cost the agency $39k in the first year for supplies, printing costs, and staff and $14k each year after. Therefore, efficient policy enactment will significantly reduce costs. 
 
 If given more time, we would further analyze more data, information regarding population loss, crime rates by neighborhood, state funding and money allocation based on public health issues. Having access to this information can help 1) see overview of which neighborhoods should be prioritized in terms of development and funding 2) which neighborhoods are getting funding already (needs more), getting funding already (doesn’t need anymore), is not getting funding (needs fundings). 
-
 
 Proposed Policy Solution: 
 To put our findings into action, we wanted to focus on strengthening existing Baltimore City legisation. In August 2019, [Baltimore Councilman Burnett](https://www.bizjournals.com/baltimore/news/2020/09/21/council-bill-signage-qr-code-vacant-properties.html) proposed a new way for Baltimore to hold negligent owners accountable. However, just recently, as of this past March, the [Law Department amended the bill](

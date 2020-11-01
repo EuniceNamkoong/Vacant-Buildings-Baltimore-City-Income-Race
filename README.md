@@ -21,10 +21,14 @@ What did you find? You don’t need to write up an explanation for each document
 
 ![insert2](https://github.com/EuniceNamkoong/Vacant-Buildings-Baltimore-City-Income-Race/blob/9f42f1ec0b3f6defb37d1b9235fab7265b64b839/BaltimoreCityMedianIncomeNeighborhood.png) 
 
+This graph was created using a Pivot Table to understand how median household income is distributed across Baltimore City by neighborhoods. The top 5 neighborhoods located in north, south, and central Baltimore and the bottom 5 neighborhoods are located in west and southeast Baltimore. This suggests that there are wealth inequities and the wealth distribution is not equal across the neighborhoods and districts. 
 
 ![insert1](NeighborhoodVacantBuildings.png)
 
-Looking at the total number of vacant buildings in Baltimore City by neighborhood, we can see that there is a stark discrepancy between neighborhoods in the eastern/western halves vs. north/south. The top 5 neighborhoods with the highest total number of vacant buildings are located in .... while the bottom 4 neighborhoods are located in ... 
+Looking at the total number of vacant buildings in Baltimore City by neighborhood, we can see that there is a stark discrepancy between neighborhoods in the eastern/western halves vs. north/south. The top 5 neighborhoods with the highest total number of vacant buildings are located in East, northern, southwestern, and southeastern Baltimore. The bottom 5 neighborhoods 
+
+It is important to note that some neighborhoods are grouped together due to the combination of several data sets. 
+
 
 ![insert3](https://github.com/EuniceNamkoong/Vacant-Buildings-Baltimore-City-Income-Race/blob/main/BaltimoreCityMedianIncomeScatterGraph.png)
 

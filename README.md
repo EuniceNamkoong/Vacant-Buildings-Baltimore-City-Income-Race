@@ -2,9 +2,9 @@
 The high volumme of vacant buildings present a huge safety and public health problem in Baltimore City. There have been documented cases of vacant buildings collapsing on pedestrians and are detrimental to other social determinants of health. Therefore, we will be looking at how we can better understand the relationship between vacant buildings and geographic distribution of race and income? 
 
 The sections below will cover the following: 
-*Challenge/Problem Section: History of Baltimore infrastructure and problems residents have experienced  
-*Solution Section: Data analysis of number of vacant houses by neighborhood based on race and median income 
-*Suggestion Section: Applicaiton of data findings to Baltimore City legislation 
+* Challenge/Problem Section: History of Baltimore infrastructure and problems residents have experienced  
+* Solution Section: Data analysis of number of vacant houses by neighborhood based on race and median income 
+* Suggestion Section: Applicaiton of data findings to Baltimore City legislation 
 
 ## Challenge/problem section
 Solution section

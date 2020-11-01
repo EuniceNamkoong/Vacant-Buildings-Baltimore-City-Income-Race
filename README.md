@@ -49,14 +49,3 @@ Projections to completely get rid of the house vacancy problem in Baltimore is o
 If given more time, we would further analyze more data, information regarding population loss, crime rates by neighborhood, state funding and money allocation based on public health issues. Having access to this information can help 1) see overview of which neighborhoods should be prioritized in terms of development and funding 2) which neighborhoods are getting funding already (needs more), getting funding already (doesn’t need anymore), is not getting funding (needs fundings). 
 
 ![insert3](VacantBuildingsDiversityIndex.png)
-
-
-## Data Analysis
-
-Types of data analysis conducted for each data set: 
-which data set what combined with which data set - what analysis was done for that data set? 
-
-
-![insert2](https://github.com/EuniceNamkoong/Vacant-Buildings-Baltimore-City-Income-Race/blob/main/Cluster%20Analysis%20Results.png)
-
-## Executive Summaries

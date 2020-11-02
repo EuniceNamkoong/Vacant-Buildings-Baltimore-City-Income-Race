@@ -33,14 +33,15 @@ Using the total number of vacant buildings in Baltimore City by neighborhood dat
 
 To plot the vacant buildings and median household income data sets together, a scatterplot was used. We can see that the trendline suggests a general inverse relationship. As the median household income increases, the total number of vacant buildings are less likely to be a prominent issue in the high-income neighborhoods. 
 
+To look into the racial makeup, we analyzed the percent of Black and White residents in the neighborhoods and their relatinoship to number of total vacant buildings. 
 
 ![insert4](VacantBuildingsBlackResidents.png)
 
-As the percent of Black residents in the neighborhoods increases, the total vacant buildings show a general upwards trend. 
+As the percent of Black residents in the neighborhood increases, the total vacant buildings show a general upwards trend.
 
 ![insert5](VacantBuildingsWhiteResidents.png)
 
-As the percent of White residents in the neighborhoods increases, the total vacant buildings show a general downwards trend. This is an inverse relationship to the graph regarding Black residents.
+As the percent of White residents in the neighborhood increases, the total vacant buildings show a general downwards trend. This is an inverse relationship to the graph regarding Black residents.
 
 ![insert6](PoliceDistrictVacantBuildings.png)
 

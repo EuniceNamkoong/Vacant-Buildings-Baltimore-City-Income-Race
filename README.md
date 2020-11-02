@@ -36,11 +36,11 @@ To plot the vacant buildings and median household income data sets together, VLO
 
 ![insert4](VacantBuildingsBlackResidents.png)
 
-Within the black residing neighborhoods, the total vacant buildings shows a general upwards trend as the percent of black residents increases. 
+As the percent of black residents in the neighborhoods increases, the total vacant buildings shows a general upwards trend. 
 
 ![insert5](VacantBuildingsWhiteResidents.png)
 
-Within the white residing neighborhoods, the total vacant buildings shows a general downwards trend as the percent of black residents increases, the inverse of the graph shown previously. 
+As the percent of white residents in the neighborhoods increases, the total vacant buildings shows a general downwards trend. This is an inverse relationship of the graph shown previously.
 
 ![insert6](PoliceDistrictVacantBuildings.png)
 

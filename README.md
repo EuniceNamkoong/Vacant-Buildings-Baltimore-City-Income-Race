@@ -86,6 +86,6 @@ How our data can be important:
 1) Agency can focus on covering certain police districts in order of highest to lowest number of vacant buildings present (western, eastern, southwestern, southern, etc.)
 2) Focus on neighborhoods within clusters 1 and 3 when making inspection rounds to make the most efficient impact revitalizing the city.
 
-With current social and political landscape, movements regarding race such as [Black Lives Matter](https://www.marketplace.org/2020/07/08/why-cant-baltimore-solve-vacant-housing-problem/) could potentially propel more attention on the income, race, and public health disparities regarding house vacancy in Baltimore. 
+With current social and political landscape, movements regarding race such as [Black Lives Matter](https://www.marketplace.org/2020/07/08/why-cant-baltimore-solve-vacant-housing-problem/), there is potential to create great strides on the income, race, and public health disparities regarding house vacancy in Baltimore. 
 
 If given more time, we would further analyze more data, information regarding population loss, crime rates by neighborhood, state funding and money allocation based on public health issues. Having access to this information can help 1) see overview of which neighborhoods should be prioritized in terms of development and funding 2) which neighborhoods are getting funding already (needs more), getting funding already (doesn’t need anymore), is not getting funding (needs fundings). 

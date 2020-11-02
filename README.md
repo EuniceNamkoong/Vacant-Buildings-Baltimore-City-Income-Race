@@ -40,7 +40,7 @@ As the percent of Black residents in the neighborhoods increases, the total vaca
 
 ![insert5](VacantBuildingsWhiteResidents.png)
 
-As the percent of White residents in the neighborhoods increases, the total vacant buildings shows a general downwards trend. This is an inverse relationship of the graph shown previously.
+As the percent of White residents in the neighborhoods increases, the total vacant buildings shows a general downwards trend. This is an inverse relationship of the graph of Black residents.
 
 ![insert6](PoliceDistrictVacantBuildings.png)
 
@@ -54,7 +54,7 @@ Combining all the data above, a cluster analysis was conducted to group like nei
   * lower than average White residents
   * higher than average percent of households below the poverty line
   * lower than the average household median income
-  * much higher than average vacant buildings 
+  * **much higher than average vacant buildings** 
 * Cluster 2: 
   * lower than average Black residents
   * higher than average White residents
@@ -66,7 +66,7 @@ Combining all the data above, a cluster analysis was conducted to group like nei
   * lower than average White residents
   * lower than average number of households below the poverty line
   * lower than the average household median income
-  * slightly higher than average vacant buildings cluster
+  * **slightly higher than average vacant buildings cluster**
 * Cluster 4: 
   * much lower than average Black residents
   * much higher than average White residents

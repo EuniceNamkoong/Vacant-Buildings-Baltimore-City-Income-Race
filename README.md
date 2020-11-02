@@ -11,7 +11,7 @@ The high volume of vacant buildings present a [huge safety and public health pro
 
 ![black butterfly map](https://github.com/EuniceNamkoong/Vacant-Buildings-Baltimore-City-Income-Race/blob/main/Black%20Butterfly%20Map.JPG)
 
-The map above shows the ["Black Butterfly"](https://apps.urban.org/features/baltimore-investment-flows/), a description of the butterfly wing shape of segregated black communities dispersed across Baltimore City's eastern and western halves. The ["White L"](https://ncrc.org/the-black-butterfly/) is comprised of high-income neighborhoods located around Inner Harbor to the North. 
+The map above shows the ["Black Butterfly"](https://apps.urban.org/features/baltimore-investment-flows/), a description of the butterfly wing shape of segregated Black communities dispersed across Baltimore City's eastern and western halves. The ["White L"](https://ncrc.org/the-black-butterfly/) is comprised of high-income neighborhoods located around Inner Harbor to the North. 
 
 ![vacant house map](https://github.com/EuniceNamkoong/Vacant-Buildings-Baltimore-City-Income-Race/blob/main/Vacant%20Houses%20Map.JPG)
 

@@ -36,15 +36,15 @@ To plot the vacant buildings and median household income data sets together, VLO
 
 ![insert4](VacantBuildingsBlackResidents.png)
 
-As the percent of black residents in the neighborhoods increases, the total vacant buildings shows a general upwards trend. 
+As the percent of Black residents in the neighborhoods increases, the total vacant buildings shows a general upwards trend. 
 
 ![insert5](VacantBuildingsWhiteResidents.png)
 
-As the percent of white residents in the neighborhoods increases, the total vacant buildings shows a general downwards trend. This is an inverse relationship of the graph shown previously.
+As the percent of White residents in the neighborhoods increases, the total vacant buildings shows a general downwards trend. This is an inverse relationship of the graph shown previously.
 
 ![insert6](PoliceDistrictVacantBuildings.png)
 
-It is important to note that the black butterfly suggests racial disparities are clustered within the western and eastern halves of Baltimore. In the graph above, the highest number of vacant buildings are within the western and eastern police districts, suggesting that race could be a significant factor. 
+It is important to note that the Black Butterfly suggests racial disparities are clustered within the western and eastern halves of Baltimore. In the graph above, the highest number of vacant buildings are within the western and eastern police districts, suggesting that race could be a significant factor. 
 
 ![insert7](https://github.com/EuniceNamkoong/Vacant-Buildings-Baltimore-City-Income-Race/blob/main/Cluster%20Nodes%20Grouping%20Table.png)
 

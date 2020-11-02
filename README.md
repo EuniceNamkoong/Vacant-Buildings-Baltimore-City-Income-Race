@@ -31,7 +31,7 @@ Using the total number of vacant buildings in Baltimore City by neighborhood dat
 
 ![insert3](https://github.com/EuniceNamkoong/Vacant-Buildings-Baltimore-City-Income-Race/blob/main/BaltimoreCityMedianIncomeScatterGraph.png)
 
-To plot the vacant buildings and median household income data sets together, VLOOKUP was used. We can see that the trendline suggests a slight inverse relationship. As the median household income increases, the total number of vacant buildings are less likely to be a prominent issue in the high-income neighborhoods. 
+To plot the vacant buildings and median household income data sets together, a scatterplot was used. We can see that the trendline suggests a general inverse relationship. As the median household income increases, the total number of vacant buidings are less likely to be a prominent issue in the high-income neighborhoods. 
 
 
 ![insert4](VacantBuildingsBlackResidents.png)
@@ -86,5 +86,4 @@ How our data can be important:
 1) Agency can focus on covering certain police districts in order of highest to lowest number of vacant buildings present (western, eastern, southwestern, southern, etc.)
 2) Focus on neighborhoods within clusters 1 and 3 when making inspection rounds to make the most efficient impact revitalizing the city.
 
-
-If given more time, we would further analyze more data, information regarding population loss, crime rates by neighborhood, state funding and money allocation based on public health issues. Having access to this information can help 1) see overview of which neighborhoods should be prioritized in terms of development and funding 2) which neighborhoods are getting funding already (needs more), getting funding already (doesn’t need anymore), is not getting funding (needs fundings). 
+If given more time, we would further analyze more data regarding population loss, crime rates by neighborhood, state funding and money allocation based on public health issues. Having access to this information can help 1) see overview of which neighborhoods should be prioritized in terms of development and funding 2) which neighborhoods are getting funding already (needs more), getting funding already (doesn’t need anymore), is not getting funding (needs fundings). 

@@ -86,4 +86,7 @@ How our data can be important:
 1) Agency can focus on covering certain police districts in order of highest to lowest number of vacant buildings present (western, eastern, southwestern, southern, etc.)
 2) Focus on neighborhoods within clusters 1 and 3 when making inspection rounds to make the most efficient impact revitalizing the city.
 
-If given more time, we would further analyze more data such as population loss, crime rates by neighborhood, and state funding/money allocation based on public health issues. Having access to this information can help 1) see overview of which neighborhoods should be prioritized in terms of development and funding 2) which neighborhoods are getting funding already (needs more), getting funding already (doesn’t need anymore), is not getting funding (needs fundings). 
+If given more time, we would further analyze data such as populations experiencing homelessness, population loss, crime rates by neighborhood, and state funding/money allocation based on public health issues. Futhermore, given Baltimore's [homelessness issue](
+https://www.washingtonpost.com/local/baltimore-has-more-than-16000-vacant-houses-why-cant-the-homeless-move-in/2015/05/12/3fd6b068-f7ed-11e4-9030-b4732caefe81_story.html), it would be interesting to analyze how public policy regarding vacant buildings may also be used to address this issue. 
+
+
